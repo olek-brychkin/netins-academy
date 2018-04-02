@@ -19,6 +19,11 @@ $(document).ready(function() {
 		} 
 		return stawka;
 	}
+	
+	function a() {
+	
+	
+	}
 
 	function readInsurance(){
 		var valueInsurance = $('.Insurance:checked').val();
